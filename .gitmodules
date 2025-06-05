@@ -1,0 +1,3 @@
+[submodule "fasum"]
+	path = fasum
+	url = https://github.com/Rail-E/fasum
